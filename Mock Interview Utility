@@ -1,0 +1,10 @@
+def conduct_interview(keywords):
+    # Mock implementation for generating interview questions
+    questions = []
+    if "Java" in keywords:
+        questions.append("What are the key features of Java?")
+    if "AWS" in keywords:
+        questions.append("What is the difference between S3 and EC2?")
+    if "Kubernetes" in keywords:
+        questions.append("Explain the concept of a Kubernetes Pod.")
+    return questions
