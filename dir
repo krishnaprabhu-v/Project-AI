@@ -1,0 +1,21 @@
+AI-Interview-Coach/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── utils/
+│   │   ├── keyword_extraction.py
+│   │   ├── feedback_generator.py
+│   │   └── mock_interview.py
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── components/
+│   │   │   ├── ResumeUpload.js
+│   │   │   ├── MockInterview.js
+│   │   │   ├── Feedback.js
+│   │   └── index.js
+│   ├── package.json
+│   └── package-lock.json
+└── README.md
